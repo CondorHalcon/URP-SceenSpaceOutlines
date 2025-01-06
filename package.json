@@ -1,6 +1,6 @@
 {
   "name": "com.condorhalcon.urp-screenspaceoutlines",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "displayName": "URP Screen Space Outlines",
   "description": "This is a screen space outlines render feature.",
   "keywords": [
