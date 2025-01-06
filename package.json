@@ -1,13 +1,13 @@
 {
-  "name": "com.condorhalcon.urp-render-features",
+  "name": "com.condorhalcon.urp-screenspaceoutlines",
   "version": "0.2.0",
-  "displayName": "URP Render Features",
-  "description": "This is a collection of Unity URP render features built by CondorHalcon",
+  "displayName": "URP Screen Space Outlines",
+  "description": "This is a screen space outlines render feature.",
   "keywords": [
-    "URP Render Feature",
+    "URP Screen Space Outlines",
     "URP",
-    "Render",
-    "Features",
+    "Screen Space",
+    "Outlines",
     "CondorHalcon"
   ],
   "author": {

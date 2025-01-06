@@ -1,11 +1,21 @@
-# URP Render Features
+# Unity Screen Space Outlines
 
-> A collection of Unity URP render features built by [@CondorHalcon](https://github.com/CondorHalcon).
+I was working on the 2024 AIE Minor Production project [*Splash & Seek*](https://aieseattle.itch.io/splashseek) as lead programmer and technical artist. As part of the art style, the team needed an implementation for global outlines in the Unity engine. It then became my task to find an appropriate solution.
 
-## Features
+#### Considerations
+1. Consistent Outlines: Outlines need to be a consistent size across all objects.
+2. Easy tweaking: Outline parameters like color and size need to be easily tweaked by artists and designers.
 
-### Screen Space Outlines
+## 1. First Method | Outline Material
 
+#### The Implementation
+#### The Problems
+#### The Result
+#### Potential Improvements
+
+## 2. Final Method | URP Render Feature
+
+#### The Implementation
 > Draws screen space outlines along edges. The edge detection uses view normals and screen depth.
 
 ```csharp
@@ -24,3 +34,7 @@ namespace CondorHalcon.URPRenderFeatures
     }
 }
 ```
+
+#### The Problems
+#### The Result
+#### Potential Improvements
